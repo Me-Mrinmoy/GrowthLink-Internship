@@ -1,7 +1,7 @@
 # GrowthLink-Internship
 Job Board
 
-![GrowthLink](https://your-image-url.com) <!-- Add a relevant banner or logo here -->
+ <!-- Add a relevant banner or logo here -->
 
 ## 📌 About the Project
 GrowthLink-Internship is a job board platform designed to help users find internships and job opportunities. It aims to streamline the job application process and provide a seamless experience for recruiters and candidates.
