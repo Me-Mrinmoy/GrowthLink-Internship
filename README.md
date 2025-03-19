@@ -62,7 +62,7 @@ This project is licensed under the [GPL-3.0 License](LICENSE).
 ## 📞 Contact
 If you have any questions, feel free to reach out:
 - **GitHub:** [Me-Mrinmoy](https://github.com/Me-Mrinmoy)
-- **Email:** your-email@example.com <!-- Add your email if you want -->
+- **Email:** mrinmoysamantamrinmoysamanta@gmail.com <!-- Add your email if you want -->
 
 ---
 
